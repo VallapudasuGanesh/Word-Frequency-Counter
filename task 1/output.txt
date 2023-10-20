@@ -1,0 +1,15 @@
+this: 2
+is: 1
+a: 1
+sample: 1
+text: 2
+contains: 1
+some: 1
+words: 1
+and: 1
+it: 1
+will: 1
+be: 1
+used: 1
+for: 1
+testing: 1
